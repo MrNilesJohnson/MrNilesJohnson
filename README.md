@@ -1,14 +1,12 @@
-👋 MrNilesJohnson speaking. 
+👋 Greetings, I'm Mr. Niles Johnson.
 
-💼 Over the last couple of years i've been working as a 2D animator at a content creation company in The Netherlands.
+💼 Since 2012, I've been working as a Test Automation Engineer in The Netherlands.
 
-👀 As a means to broaden my horizon, I now focus on writing scripts and expressions for Adobe After Effects.
+🌱 My main focus is using Robot Framework alongside Python. I'm also expanding my skills by learning about Azure, Git, and other programming languages like Powershell. In my free time, I create scripts for my personal projects.
 
-🌱 At this moment in time, I'm learning the basics of writing expressions by following a course provided by Motion Design School.
+💞️ I'm looking forward to connecting with others who are interested in coding, building pipelines, and Test Automation in general.
 
-💞️ I'll be lookng forward to connect with likeminded people who are interested in writing expression in After Effects and are conserned with optimize animation workflow. 
-
-📫 Feek free to contact me if you're looking for help with your expressions or if you need some customized code for your project. I'll be happy to help.
+📫 Feel free to get in touch if you need assistance with Automation. I'll be glad to help.
 
 <!---
 MrNilesJohnson/MrNilesJohnson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
